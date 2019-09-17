@@ -1,0 +1,11 @@
+C:\Users\home\source\repos\InterfacesPract\InterfacesPract\bin\Debug\netcoreapp2.2\InterfacesPract.deps.json
+C:\Users\home\source\repos\InterfacesPract\InterfacesPract\bin\Debug\netcoreapp2.2\InterfacesPract.runtimeconfig.json
+C:\Users\home\source\repos\InterfacesPract\InterfacesPract\bin\Debug\netcoreapp2.2\InterfacesPract.runtimeconfig.dev.json
+C:\Users\home\source\repos\InterfacesPract\InterfacesPract\bin\Debug\netcoreapp2.2\InterfacesPract.dll
+C:\Users\home\source\repos\InterfacesPract\InterfacesPract\bin\Debug\netcoreapp2.2\InterfacesPract.pdb
+C:\Users\home\source\repos\InterfacesPract\InterfacesPract\obj\Debug\netcoreapp2.2\InterfacesPract.csprojAssemblyReference.cache
+C:\Users\home\source\repos\InterfacesPract\InterfacesPract\obj\Debug\netcoreapp2.2\InterfacesPract.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\InterfacesPract\InterfacesPract\obj\Debug\netcoreapp2.2\InterfacesPract.AssemblyInfoInputs.cache
+C:\Users\home\source\repos\InterfacesPract\InterfacesPract\obj\Debug\netcoreapp2.2\InterfacesPract.AssemblyInfo.cs
+C:\Users\home\source\repos\InterfacesPract\InterfacesPract\obj\Debug\netcoreapp2.2\InterfacesPract.dll
+C:\Users\home\source\repos\InterfacesPract\InterfacesPract\obj\Debug\netcoreapp2.2\InterfacesPract.pdb
